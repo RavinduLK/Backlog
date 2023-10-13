@@ -37,7 +37,7 @@ Dive into the codebase to elevate your project management experience!
 
 ## Demo Video
 
-[![Demo Video](https://dms.uom.lk/s/cnLbHp5tC5ER4ZL)
+[https://drive.google.com/drive/u/0/folders/18UEq-plaGjheWkudtf2PqrmO_yfCV39f](https://dms.uom.lk/s/cnLbHp5tC5ER4ZL)
 
 ## Screenshots
 
