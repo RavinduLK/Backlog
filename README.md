@@ -27,13 +27,13 @@ Experience enhanced project management with our powerful Backlog and Sprint feat
 
 ## Features
 
-Issue Management
-Sprint Management
+Issue Management<br>
+Sprint Management<br>
 Responsive and intuitive user interfaces
 
 ## Usage
 
-Explain how users can utilize your component. Provide code examples or usage scenarios.
+Dive into the codebase to elevate your project management experience!
 
 ## Screenshots
 
