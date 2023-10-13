@@ -35,22 +35,22 @@ Responsive and intuitive user interfaces
 
 Dive into the codebase to elevate your project management experience!
 
-## Screenshots
-
-![Screenshot 1](https://github.com/RavinduLK/Backlog-FrontEnd/blob/91d33ab28009f3fcd10406ea34b945fa1c97b71b/Backlog%20UIs'/Screenshot%202023-10-11%20133518.png)<br>
-![Screenshot 2](https://github.com/RavinduLK/Backlog-FrontEnd/blob/6887cc1237bc5b7bc0299be274b72efea9a8e124/Backlog%20UIs'/Screenshot%202023-10-11%20133533.png)<br>
-![Screenshot 3](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132334.png)<br>
-![Screenshot 4](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132351.png)<br>
-![Screenshot 10](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132406.png)<br>
-![Screenshot 5](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133451.png)<br>
-![Screenshot 6](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132249.png)<br>
-![Screenshot 7](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133357.png)<br>
-![Screenshot 8](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133313.png)<br>
-![Screenshot 9](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133417.png)
-
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Demo Video](https://github.com/RavinduLK/Backlog-FrontEnd/tree/64c7ad21a4378f20181450e6ebe4bfd9826dfd32/Backlog%20Demo)
+
+## Screenshots
+
+![Screenshot 1](https://github.com/RavinduLK/Backlog-FrontEnd/blob/91d33ab28009f3fcd10406ea34b945fa1c97b71b/Backlog%20UIs'/Screenshot%202023-10-11%20133518.png)<br><br>
+![Screenshot 2](https://github.com/RavinduLK/Backlog-FrontEnd/blob/6887cc1237bc5b7bc0299be274b72efea9a8e124/Backlog%20UIs'/Screenshot%202023-10-11%20133533.png)<br><br>
+![Screenshot 3](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132334.png)<br><br>
+![Screenshot 4](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132351.png)<br><br>
+![Screenshot 10](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132406.png)<br><br>
+![Screenshot 5](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133451.png)<br><br>
+![Screenshot 6](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132249.png)<br><br>
+![Screenshot 7](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133357.png)<br><br>
+![Screenshot 8](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133313.png)<br><br>
+![Screenshot 9](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133417.png)
 
 
 
