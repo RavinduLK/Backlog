@@ -37,8 +37,16 @@ Dive into the codebase to elevate your project management experience!
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/RavinduLK/Backlog-FrontEnd/blob/91d33ab28009f3fcd10406ea34b945fa1c97b71b/Backlog%20UIs'/Screenshot%202023-10-11%20133518.png)
-![Screenshot 2](https://github.com/RavinduLK/Backlog-FrontEnd/blob/6887cc1237bc5b7bc0299be274b72efea9a8e124/Backlog%20UIs'/Screenshot%202023-10-11%20133533.png)
+![Screenshot 1](https://github.com/RavinduLK/Backlog-FrontEnd/blob/91d33ab28009f3fcd10406ea34b945fa1c97b71b/Backlog%20UIs'/Screenshot%202023-10-11%20133518.png)<br>
+![Screenshot 2](https://github.com/RavinduLK/Backlog-FrontEnd/blob/6887cc1237bc5b7bc0299be274b72efea9a8e124/Backlog%20UIs'/Screenshot%202023-10-11%20133533.png)<br>
+![Screenshot 3](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132334.png)<br>
+![Screenshot 4](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132351.png)<br>
+![Screenshot 10](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132406.png)<br>
+![Screenshot 5](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133451.png)<br>
+![Screenshot 6](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20132249.png)<br>
+![Screenshot 7](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133357.png)<br>
+![Screenshot 8](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133313.png)<br>
+![Screenshot 9](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133417.png)
 
 ## Demo Video
 
