@@ -37,7 +37,7 @@ Dive into the codebase to elevate your project management experience!
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](https://github.com/RavinduLK/Backlog-FrontEnd/blob/6887cc1237bc5b7bc0299be274b72efea9a8e124/Backlog%20UIs'/Screenshot%202023-10-11%20133533.png)
 ![Screenshot 2](path/to/screenshot2.png)
 
 ## Demo Video
